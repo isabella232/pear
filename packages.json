@@ -1,1 +1,42 @@
-[]
+{
+    "pear-plivo\/plivo-php": {
+        "versions": {
+            "1.0.0": {
+                "name": "pear-plivo\/plivo-php",
+                "description": "PHP wrapper on Plivo's API",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/plivo.github.com\/pear\/get\/plivo-php-1.0.0.tgz"
+                },
+                "version": "1.0.0",
+                "time": "2013-06-27T06:17:08-05:00",
+                "require": {
+                    "php": ">=5.2.1",
+                    "pear-phix\/Autoloader": ">=3.0.0,<=3.999.9999",
+                    "pear-pear\/HTTP_Request2": ">=2.0.0,<=2.999.9999"
+                },
+                "authors": [
+                    {
+                        "name": "Plivo Inc",
+                        "email": "support@plivo.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ]
+                }
+            }
+        },
+        "name": "pear-plivo\/plivo-php",
+        "description": "PHP wrapper on Plivo's API",
+        "maintainers": [
+            {
+                "name": "Plivo Inc",
+                "email": "support@plivo.com",
+                "homepage": ""
+            }
+        ]
+    }
+}

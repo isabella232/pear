@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://plivo.github.com/pear</id>
-    <updated>2013-04-03T04:42:30-07:00</updated>
+    <updated>2013-06-27T06:20:19-05:00</updated>
     <title>Plivo's PEAR Channel Server Latest Releases</title>
     <link href="http://plivo.github.com/pear/feed.xml" rel="self" />
     <author>
         <name>http://plivo.github.com/pear</name>
     </author>
 
-
+    <entry>
+        <title>plivo-php 1.0.0 (stable)</title>
+        <link href="http://plivo.github.com/pear/get/plivo-php-1.0.0.tgz" />
+        <id>http://plivo.github.com/pear/get/plivo-php-1.0.0.tgz</id>
+        <author>
+            <name>Support</name>
+        </author>
+        <updated>2013-06-27T06:17:08-05:00</updated>
+        <content>
+            
+    
+  
+            
+    No notes.
+  
+        </content>
+    </entry>
 </feed>
